@@ -10,7 +10,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Two Classes of Low Reynolds Number Swimmers**</span>      
 &nbsp;&nbsp;&nbsp;&nbsp;**Jaskaran  Grover**  
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis for Masters of Science in Robotics  
-&nbsp;&nbsp;&nbsp;&nbsp;[PDF](https://www.ri.cmu.edu/wp-content/uploads/2018/08/Thesis.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://www.ri.cmu.edu/wp-content/uploads/2018/08/Thesis.pdf)
 <br/>  
 
 ![](/images/multirobot.gif){: width="140px"}{: height="220px"}{: style="float: left"}
@@ -65,7 +65,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;Dynamic Systems and Controls Conference (DSCC) 2018, [pdf](/files/torus.pdf)   
 <br/>  
  
-![](/images/IC.png){: width="150px"}{: style="float: left"}
+![](/images/3Dpic.png){: width="150px"}{: style="float: left"}
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Geometric Motion Planning for Three-Link**</span>   
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Yaw-Pitch Swimmer in a Low-Reynolds Regime**</span>    
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, J. Zimmer, T. Dear, S. Kelly, M. Travers, H. Choset.     
@@ -81,7 +81,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://dl.acm.org/doi/10.4108/eai.28-9-2015.2261468)  
 <br/> 
 
-![](/images/3Dpic.png){: width="150px"}{: style="float: left"}
+![](/images/IC.png){: width="150px"}{: style="float: left"}
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Studying Crosstalk Trends for Signal Integrity on**</span>   
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Interconnects using Finite Element Modeling**</span>    
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, A. Gupta.       
