@@ -85,6 +85,5 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Studying Crosstalk Trends for Signal Integrity on**</span>   
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Interconnects using Finite Element Modeling**</span>    
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, A. Gupta.       
-&nbsp;&nbsp;&nbsp;&nbsp;COMSOL Conference, 2013   
-&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://www.comsol.com/paper/studying-crosstalk-trends-for-signal-integrity-on-interconnects-using-finite-ele-15262)   
+&nbsp;&nbsp;&nbsp;&nbsp;COMSOL Conference, 2013, [pdf](https://www.comsol.com/paper/studying-crosstalk-trends-for-signal-integrity-on-interconnects-using-finite-ele-15262)    
 <br/> 
