@@ -65,10 +65,26 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;Dynamic Systems and Controls Conference (DSCC) 2018, [pdf](/files/torus.pdf)   
 <br/>  
  
-![](/images/3Dpic.png){: width="150px"}{: style="float: left"}
+![](/images/IC.png){: width="150px"}{: style="float: left"}
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Geometric Motion Planning for Three-Link**</span>   
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Yaw-Pitch Swimmer in a Low-Reynolds Regime**</span>    
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, J. Zimmer, T. Dear, S. Kelly, M. Travers, H. Choset.     
 &nbsp;&nbsp;&nbsp;&nbsp;American Controls Conference (ACC) 2018   
 &nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://ieeexplore.ieee.org/document/8431828), [videos](https://www.youtube.com/watch?v=XYdccEVCJjQ)   
+<br/> 
+
+![](/images/BAN.png){: width="150px"}{: style="float: left"}
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Estimation and Tracking of Knee Angle Trajectory**</span>   
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**using Inertial Sensors and a Smartphone Application**</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, V. Natarajan.     
+&nbsp;&nbsp;&nbsp;&nbsp;EAI International Conference on Body Area Networks , 2015
+&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://dl.acm.org/doi/10.4108/eai.28-9-2015.2261468)  
+<br/> 
+
+![](/images/3Dpic.png){: width="150px"}{: style="float: left"}
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Studying Crosstalk Trends for Signal Integrity on**</span>   
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Interconnects using Finite Element Modeling**</span>    
+&nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, A. Gupta.       
+&nbsp;&nbsp;&nbsp;&nbsp;COMSOL Conference, 2013   
+&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://www.comsol.com/paper/studying-crosstalk-trends-for-signal-integrity-on-interconnects-using-finite-ele-15262)   
 <br/> 
