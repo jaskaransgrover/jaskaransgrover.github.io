@@ -8,7 +8,7 @@ author_profile: true
 ![](/images/elasticmag2.gif){: width="140px"}{: height="220px"}{: style="float: left"}
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Geometric Approaches to Motion Planning for**</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Two Classes of Low Reynolds Number Swimmers**</span>      
-&nbsp;&nbsp;&nbsp;&nbsp;**Jaskaran  Grover**  
+&nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**  
 &nbsp;&nbsp;&nbsp;&nbsp;Thesis for Masters of Science in Robotics  
 &nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://www.ri.cmu.edu/wp-content/uploads/2018/08/Thesis.pdf)
 <br/>  
