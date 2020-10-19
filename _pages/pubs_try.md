@@ -77,8 +77,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Estimation and Tracking of Knee Angle Trajectory**</span>   
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**using Inertial Sensors and a Smartphone Application**</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, V. Natarajan.     
-&nbsp;&nbsp;&nbsp;&nbsp;EAI International Conference on Body Area Networks 2015  
-&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://dl.acm.org/doi/10.4108/eai.28-9-2015.2261468)  
+&nbsp;&nbsp;&nbsp;&nbsp;EAI International Conference on Body Area Networks 2015, [pdf](https://dl.acm.org/doi/10.4108/eai.28-9-2015.2261468)  
 <br/> 
 
 ![](/images/IC.png){: width="150px"}{: style="float: left"}
