@@ -5,6 +5,14 @@ permalink: /pubs_try/
 author_profile: true 
 
 ---
+![](/images/elasticmag2.gif){: width="140px"}{: height="220px"}{: style="float: left"}
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Geometric Approaches to Motion Planning for**</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Two Classes of Low Reynolds Number Swimmers**</span>      
+&nbsp;&nbsp;&nbsp;&nbsp;**Jaskaran  Grover**  
+&nbsp;&nbsp;&nbsp;&nbsp;Thesis for Masters of Science in Robotics  
+&nbsp;&nbsp;&nbsp;&nbsp;[PDF](https://www.ri.cmu.edu/wp-content/uploads/2018/08/Thesis.pdf)
+<br/>  
+
 ![](/images/multirobot.gif){: width="140px"}{: height="220px"}{: style="float: left"}
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Parameter Identification of Multirobot Systems using Optimization**</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**based Controllers**</span>      
@@ -40,7 +48,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**Ferromagnetic Swimmers**</span>    
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, D. Vedova, N. Jain, M. Travers, H. Choset.   
 &nbsp;&nbsp;&nbsp;&nbsp;Robotics Science and Systems (RSS) 2019  
-&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://www.roboticsproceedings.org/rss15/p79.pdf), [recorded presentation](https://youtu.be/Q2vHkUapbp4)  
+&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://www.roboticsproceedings.org/rss15/p79.pdf), [recorded presentation](https://youtu.be/Q2vHkUapbp4), [videos](https://youtu.be/nz6cGok1yrM)  
 <br/> 
 
 ![](/images/CB.png){: width="140px"}{: height="240px"}{: style="float: left"}
