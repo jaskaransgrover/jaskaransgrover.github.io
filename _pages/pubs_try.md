@@ -17,7 +17,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**System Identification for Safe Controllers**</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**using Inverse Optimization**</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, C. Liu, K. Sycara.  
-&nbsp;&nbsp;&nbsp;&nbsp;Submitted to ECC 2021   
+&nbsp;&nbsp;&nbsp;&nbsp;Submitted to MECC 2021   
 &nbsp;&nbsp;&nbsp;&nbsp;[preprint](/files/MECC_21.pdf)
 <br/> 
 
