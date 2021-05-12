@@ -25,7 +25,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**FREUD: Feasible Region-based Estimation Using Duality**</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**(Extended Version)**</span>      
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, C. Liu, K. Sycara.  
-&nbsp;&nbsp;&nbsp;&nbsp;Submitted to ECC 2021   
+&nbsp;&nbsp;&nbsp;&nbsp;ECC 2021   
 &nbsp;&nbsp;&nbsp;&nbsp;[preprint](/files/feasibleregion.pdf), [videos](https://bit.ly/2JDMgeJ)
 <br/> 
 
