@@ -14,6 +14,14 @@ author_profile: true
 <br/>  
 
 ![](/images/region.gif){: width="140px"}{: height="220px"}{: style="float: left"}
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**System Identification for Safe Controllers**</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**using Inverse Optimization**</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, C. Liu, K. Sycara.  
+&nbsp;&nbsp;&nbsp;&nbsp;Submitted to ECC 2021   
+&nbsp;&nbsp;&nbsp;&nbsp;[preprint](/files/MECC_21.pdf)
+<br/> 
+
+![](/images/region.gif){: width="140px"}{: height="220px"}{: style="float: left"}
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**FREUD: Feasible Region-based Estimation Using Duality**</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:rgb(32, 48, 96)">**(Extended Version)**</span>      
 &nbsp;&nbsp;&nbsp;&nbsp;**J. Grover**, C. Liu, K. Sycara.  

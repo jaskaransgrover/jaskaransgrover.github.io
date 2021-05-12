@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third year PhD. student in the  [Robotics Institute](https://www.ri.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/ )  at [Carnegie Mellon University](https://www.cmu.edu/ ). I work in the [Intelligent Control Lab](http://icontrol.ri.cmu.edu/) and the [Advanced Agent Robotics Technology Lab](http://www.cs.cmu.edu/~softagents/). My advisors are Professor [Changliu Liu](http://www.cs.cmu.edu/~cliu6/) and Professor [Katia Sycara](http://www.cs.cmu.edu/~sycara/). Going back in time, I received an M.S. in Robotics from [RI, CMU](https://www.ri.cmu.edu/) in 2018 under Professor [Howie Choset](https://www.cs.cmu.edu/~./choset/) and Dr. [Matt Travers](https://www.ri.cmu.edu/ri-faculty/matthew-j-travers/). I got an M.S. in  Electrical Engineering from [UCLA](https://www.ee.ucla.edu/) in 2016 and a B.S. in Electrical Engineering from [BITS, Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx ) in 2014.
 
-<!-- Research Interests
+Research Interests
 ======
 My research interests are fairly broad, some of them being
 - Distributed control of multirobot systems
@@ -25,7 +25,7 @@ Updates
 - (09-28-20) Released [preprint](https://arxiv.org/pdf/2009.13817.pdf) on parameter identification for optimization-based controllers
 - (04-08-20) Paper accepted to WAFR 2020
 - (08-15-19) Received the Uber Presidential Fellowship
-- (05-04-19) Paper accepted to RSS 2019 -->
+- (05-04-19) Paper accepted to RSS 2019
 
 <!-- A data-driven personal website
 ======
